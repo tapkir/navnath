@@ -1,0 +1,11 @@
+C:\Users\wintech\documents\visual studio 2010\Projects\WindowsFormsideaApplication9\WindowsFormsideaApplication9\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\wintech\documents\visual studio 2010\Projects\WindowsFormsideaApplication9\WindowsFormsideaApplication9\obj\x86\Debug\WindowsFormsideaApplication9.attendance.resources
+C:\Users\wintech\documents\visual studio 2010\Projects\WindowsFormsideaApplication9\WindowsFormsideaApplication9\obj\x86\Debug\WindowsFormsideaApplication9.Login.resources
+C:\Users\wintech\documents\visual studio 2010\Projects\WindowsFormsideaApplication9\WindowsFormsideaApplication9\obj\x86\Debug\WindowsFormsideaApplication9.newrec.resources
+C:\Users\wintech\documents\visual studio 2010\Projects\WindowsFormsideaApplication9\WindowsFormsideaApplication9\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\wintech\documents\visual studio 2010\Projects\WindowsFormsideaApplication9\WindowsFormsideaApplication9\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\wintech\documents\visual studio 2010\Projects\WindowsFormsideaApplication9\WindowsFormsideaApplication9\bin\Debug\WindowsFormsideaApplication9.exe
+C:\Users\wintech\documents\visual studio 2010\Projects\WindowsFormsideaApplication9\WindowsFormsideaApplication9\bin\Debug\WindowsFormsideaApplication9.pdb
+C:\Users\wintech\documents\visual studio 2010\Projects\WindowsFormsideaApplication9\WindowsFormsideaApplication9\obj\x86\Debug\WindowsFormsideaApplication9.Properties.Resources.resources
+C:\Users\wintech\documents\visual studio 2010\Projects\WindowsFormsideaApplication9\WindowsFormsideaApplication9\obj\x86\Debug\WindowsFormsideaApplication9.exe
+C:\Users\wintech\documents\visual studio 2010\Projects\WindowsFormsideaApplication9\WindowsFormsideaApplication9\obj\x86\Debug\WindowsFormsideaApplication9.pdb
